@@ -1,0 +1,7 @@
+C:\Users\Aravind\source\repos\CSharpPrograms\StringOperations\bin\Debug\StringOperations.exe.config
+C:\Users\Aravind\source\repos\CSharpPrograms\StringOperations\bin\Debug\StringOperations.exe
+C:\Users\Aravind\source\repos\CSharpPrograms\StringOperations\bin\Debug\StringOperations.pdb
+C:\Users\Aravind\source\repos\CSharpPrograms\StringOperations\obj\Debug\StringOperations.csproj.CoreCompileInputs.cache
+C:\Users\Aravind\source\repos\CSharpPrograms\StringOperations\obj\Debug\StringOperations.exe
+C:\Users\Aravind\source\repos\CSharpPrograms\StringOperations\obj\Debug\StringOperations.pdb
+C:\Users\Aravind\source\repos\CSharpPrograms\StringOperations\obj\Debug\StringOperations.csprojAssemblyReference.cache
